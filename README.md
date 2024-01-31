@@ -1,10 +1,10 @@
-[Digital Assistant]
+## [Digital Assistant]
 
-Local Requirements
+## Local Requirements
 Python,Streamlit.IO
 
-Development Workflow
+## Development Workflow
 pip install -r requirements.txt
 
-Run Application 
+## Run Application 
 streamlit run Home.py
