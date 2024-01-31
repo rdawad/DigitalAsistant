@@ -1,4 +1,4 @@
-Digital Assistant
+[Digital Assistant]
 
 Local Requirements
 Python,Streamlit.IO
